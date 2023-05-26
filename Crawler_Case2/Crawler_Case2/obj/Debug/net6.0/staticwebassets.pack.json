@@ -1,0 +1,1661 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\.gitignore",
+      "PackagePath": "staticwebassets\\022-grains-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\CNAME",
+      "PackagePath": "staticwebassets\\022-grains-master"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\alerts.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\css\\gd-icons.css",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\css\\gd-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\css\\gd-icons.eot",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\css\\gd-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\css\\gd-icons.svg",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\css\\gd-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\css\\gd-icons.ttf",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\css\\gd-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\css\\gd-icons.woff",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\css\\gd-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\css\\graindashboard.css",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\css\\graindashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\img\\logo-light-mini.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\img\\logo-light-mini.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\img\\logo-light.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\img\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\img\\logo-mini.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\img\\logo-mini.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\js\\graindashboard.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\js\\graindashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\assets\\js\\graindashboard.vendor.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\assets\\js\\graindashboard.vendor.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\avatars.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\avatars.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\background.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\background.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\badges.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\badges.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\borders.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\borders.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\breadcrumbs.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\breadcrumbs.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\buttons.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\cards.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\cards.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\changelog.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\changelog.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\collapse.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\colors.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\colors.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\dropdowns.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\dropdowns.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\forms.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\forms.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\icons.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\icons.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\img\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\img\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\img\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\img\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\img\\bitcoin-cash.svg",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\img\\bitcoin-cash.svg"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\index.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\links.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\links.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\modals.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\modals.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\navs.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\navs.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\other.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\other.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\pagination.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\pagination.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\positions.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\positions.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\progress.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\progress.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\spacing.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\spacing.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\spinners.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\spinners.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\tables.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\toasts.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\transitions.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\transitions.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\documentation\\typography.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\documentation\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\email-verification.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\email-verification.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\index.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\controllers\\DashboardController.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\controllers\\DashboardController.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\controllers\\ProfileController.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\controllers\\ProfileController.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\controllers\\UserController.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\controllers\\UserController.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\package.json",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\graindashboard\\css\\gd-icons.css",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\graindashboard\\css\\gd-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\graindashboard\\css\\gd-icons.eot",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\graindashboard\\css\\gd-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\graindashboard\\css\\gd-icons.svg",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\graindashboard\\css\\gd-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\graindashboard\\css\\gd-icons.ttf",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\graindashboard\\css\\gd-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\graindashboard\\css\\gd-icons.woff",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\graindashboard\\css\\gd-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\graindashboard\\css\\graindashboard.css",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\graindashboard\\css\\graindashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\graindashboard\\js\\graindashboard.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\graindashboard\\js\\graindashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\graindashboard\\js\\graindashboard.vendor.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\graindashboard\\js\\graindashboard.vendor.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\img\\logo-light-mini.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\img\\logo-light-mini.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\img\\logo-light.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\img\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\img\\logo-mini.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\img\\logo-mini.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\public\\img\\logo.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\public\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\gd-icons\\gd-icons.css",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\gd-icons\\gd-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\gd-icons\\gd-icons.eot",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\gd-icons\\gd-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\gd-icons\\gd-icons.svg",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\gd-icons\\gd-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\gd-icons\\gd-icons.ttf",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\gd-icons\\gd-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\gd-icons\\gd-icons.woff",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\gd-icons\\gd-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\js\\components.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\js\\components.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\js\\components\\gd.malihu-scrollbar.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\js\\components\\gd.malihu-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\js\\components\\gd.side-nav.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\js\\components\\gd.side-nav.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\js\\components\\gd.unfold.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\js\\components\\gd.unfold.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\js\\graindashboard.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\js\\graindashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\js\\vendor.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\js\\vendor.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\_user-variables.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\_user-variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\_user.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\_user.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\_graindashboard.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\_graindashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\_mixins.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\accordions\\_accordions.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\accordions\\_accordions.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\alerts\\_alerts.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\alerts\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\autocomplete\\_autocomplete.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\autocomplete\\_autocomplete.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\avatar\\_avatar.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\avatar\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\badges\\_badges.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\badges\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\breadcrumb\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\breadcrumb\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\buttons\\_buttons-sizes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\buttons\\_buttons-sizes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\buttons\\_buttons.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\buttons\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\cards\\_cards.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\cards\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\changer\\_changer.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\changer\\_changer.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-axis-x.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-axis-x.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-gantt.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-gantt.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-labels.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-points.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-points.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-timeline.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-custom.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-divided.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-divided.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-position.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-position.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-themes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-themes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\credit-card\\_credit-card.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\credit-card\\_credit-card.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\datepicker\\_datepicker.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\datepicker\\_datepicker.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\dividers\\_dividers.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\dividers\\_dividers.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\dots\\_dots.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\dots\\_dots.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\dropdowns\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\dropdowns\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-checks\\_form-checks-sizes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-checks\\_form-checks-sizes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-checks\\_form-checks-text.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-checks\\_form-checks-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-checks\\_form-checks.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-checks\\_form-checks.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-controls\\_form-controls.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-controls\\_form-controls.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-radios\\_form-radios-sizes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-radios\\_form-radios-sizes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-radios\\_form-radios-text.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-radios\\_form-radios-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-radios\\_form-radios.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-radios\\_form-radios.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\input-group\\_input-group.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\input-group\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-bordered.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-bordered.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-simple.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-simple.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-sizes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-sizes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-styles.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_selects.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_selects.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\switch\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\forms\\switch\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\headers\\_header-light.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\headers\\_header-light.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\headers\\_headers.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\headers\\_headers.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\hero\\_bg-image-hero.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\hero\\_bg-image-hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\icons\\_icons.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\icons\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\indicators\\_indicators.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\indicators\\_indicators.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\layout\\_layout.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\layout\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-dot.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-dot.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-group.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-simple.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-simple.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-stacked.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_check.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_check.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_content-centered.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_content-centered.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_indicator.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_indicator.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\modals\\_modals.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\modals\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\paginations\\_paginations.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\paginations\\_paginations.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\progress\\_progress.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\progress\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\reboot\\_accessibility.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\reboot\\_accessibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\reboot\\_print.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\reboot\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\reboot\\_style.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\reboot\\_style.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\search\\_search.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\search\\_search.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\side-nav\\_side-nav.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\side-nav\\_side-nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tables\\_tables.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tables\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-designs.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-designs.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile-positions.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile-positions.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile-text-alignment.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile-text-alignment.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile-themes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile-themes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-sizes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-sizes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-themes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-themes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\unfold\\_unfold.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\unfold\\_unfold.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_animations.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_colors.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_cursor.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_cursor.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_links.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_links.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_opacity.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_opacity.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_transitions.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_typo-font-sizes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_typo-font-sizes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_typo-font-weight.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_typo-font-weight.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\animate.css\\_animate.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\animate.css\\_animate.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\chartist-plugin-tooltip\\_chartist-plugin-tooltip.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\chartist-plugin-tooltip\\_chartist-plugin-tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\datatables\\_datatables.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\datatables\\_datatables.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\dropzone\\_basic.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\dropzone\\_basic.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\dropzone\\_custom.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\dropzone\\_custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\dropzone\\_dropzone.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\dropzone\\_dropzone.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\flatpickr\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\graindashboard\\sass\\graindashboard\\vendor\\flatpickr\\_flatpickr.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\auth\\components\\footer.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\auth\\components\\footer.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\auth\\login.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\auth\\login.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\auth\\passwords\\email.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\auth\\passwords\\email.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\auth\\passwords\\reset.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\auth\\passwords\\reset.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\auth\\register.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\auth\\register.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\auth\\verify.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\auth\\verify.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\components\\footer.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\components\\footer.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\components\\header.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\components\\header.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\components\\notification.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\components\\notification.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\components\\pagination.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\components\\pagination.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\components\\sidebar.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\components\\sidebar.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\dashboard\\show.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\dashboard\\show.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\layouts\\app.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\layouts\\app.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\layouts\\grain-auth.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\layouts\\grain-auth.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\layouts\\grain.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\layouts\\grain.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\profile\\edit.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\profile\\edit.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\user\\edit.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\user\\edit.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\user\\index.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\user\\index.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\resources\\views\\welcome.blade.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\resources\\views\\welcome.blade.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\routes\\web.php",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\routes\\web.php"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\laravel\\webpack.mix.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\laravel\\webpack.mix.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\login.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\package-lock.json",
+      "PackagePath": "staticwebassets\\022-grains-master\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\package.json",
+      "PackagePath": "staticwebassets\\022-grains-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\password-reset-2.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\password-reset-2.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\password-reset.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\password-reset.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\demo\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\demo\\chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\demo\\chartist-plugin-tooltip.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\demo\\chartist-plugin-tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\demo\\chartist.css",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\demo\\chartist.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\demo\\chartist.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\demo\\chartist.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\demo\\gd.chartist-area.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\demo\\gd.chartist-area.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\demo\\gd.chartist-bar.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\demo\\gd.chartist-bar.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\demo\\gd.chartist-donut.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\demo\\gd.chartist-donut.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\demo\\gd.chartist-pie.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\demo\\gd.chartist-pie.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\demo\\resizeSensor.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\demo\\resizeSensor.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\graindashboard\\css\\gd-icons.css",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\graindashboard\\css\\gd-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\graindashboard\\css\\gd-icons.eot",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\graindashboard\\css\\gd-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\graindashboard\\css\\gd-icons.svg",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\graindashboard\\css\\gd-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\graindashboard\\css\\gd-icons.ttf",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\graindashboard\\css\\gd-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\graindashboard\\css\\gd-icons.woff",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\graindashboard\\css\\gd-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\graindashboard\\css\\graindashboard.css",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\graindashboard\\css\\graindashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\graindashboard\\js\\graindashboard.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\graindashboard\\js\\graindashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\graindashboard\\js\\graindashboard.vendor.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\graindashboard\\js\\graindashboard.vendor.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\img\\logo-light-mini.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\img\\logo-light-mini.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\img\\logo-light.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\img\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\img\\logo-mini.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\img\\logo-mini.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\img\\logo.png",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\public\\mix-manifest.json",
+      "PackagePath": "staticwebassets\\022-grains-master\\public\\mix-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\readme.md",
+      "PackagePath": "staticwebassets\\022-grains-master\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\register.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\gd-icons\\gd-icons.css",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\gd-icons\\gd-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\gd-icons\\gd-icons.eot",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\gd-icons\\gd-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\gd-icons\\gd-icons.svg",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\gd-icons\\gd-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\gd-icons\\gd-icons.ttf",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\gd-icons\\gd-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\gd-icons\\gd-icons.woff",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\gd-icons\\gd-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\js\\components.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\js\\components.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\js\\components\\gd.malihu-scrollbar.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\js\\components\\gd.malihu-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\js\\components\\gd.side-nav.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\js\\components\\gd.side-nav.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\js\\components\\gd.unfold.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\js\\components\\gd.unfold.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\js\\graindashboard.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\js\\graindashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\js\\vendor.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\js\\vendor.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\_user-variables.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\_user-variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\_user.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\_user.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\_graindashboard.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\_graindashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\_mixins.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\accordions\\_accordions.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\accordions\\_accordions.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\alerts\\_alerts.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\alerts\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\autocomplete\\_autocomplete.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\autocomplete\\_autocomplete.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\avatar\\_avatar.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\avatar\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\badges\\_badges.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\badges\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\breadcrumb\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\breadcrumb\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\buttons\\_buttons-sizes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\buttons\\_buttons-sizes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\buttons\\_buttons.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\buttons\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\cards\\_cards.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\cards\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\changer\\_changer.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\changer\\_changer.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-axis-x.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-axis-x.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-gantt.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-gantt.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-labels.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-points.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-points.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-timeline.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts-timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-custom.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-divided.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-divided.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-position.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-position.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-themes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips-themes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\charts\\tooltips\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\credit-card\\_credit-card.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\credit-card\\_credit-card.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\datepicker\\_datepicker.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\datepicker\\_datepicker.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\dividers\\_dividers.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\dividers\\_dividers.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\dots\\_dots.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\dots\\_dots.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\dropdowns\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\dropdowns\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-checks\\_form-checks-sizes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-checks\\_form-checks-sizes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-checks\\_form-checks-text.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-checks\\_form-checks-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-checks\\_form-checks.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-checks\\_form-checks.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-controls\\_form-controls.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-controls\\_form-controls.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-radios\\_form-radios-sizes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-radios\\_form-radios-sizes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-radios\\_form-radios-text.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-radios\\_form-radios-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-radios\\_form-radios.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\form-radios\\_form-radios.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\input-group\\_input-group.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\input-group\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-bordered.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-bordered.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-simple.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-simple.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-sizes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-sizes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-styles.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_select-styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_selects.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\selects\\_selects.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\switch\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\forms\\switch\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\headers\\_header-light.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\headers\\_header-light.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\headers\\_headers.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\headers\\_headers.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\hero\\_bg-image-hero.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\hero\\_bg-image-hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\icons\\_icons.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\icons\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\indicators\\_indicators.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\indicators\\_indicators.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\layout\\_layout.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\layout\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-dot.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-dot.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-group.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-simple.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-simple.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-stacked.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\lists\\_list-stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_check.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_check.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_content-centered.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_content-centered.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_indicator.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\mixins\\_indicator.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\modals\\_modals.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\modals\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\paginations\\_paginations.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\paginations\\_paginations.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\progress\\_progress.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\progress\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\reboot\\_accessibility.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\reboot\\_accessibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\reboot\\_print.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\reboot\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\reboot\\_style.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\reboot\\_style.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\search\\_search.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\search\\_search.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\side-nav\\_side-nav.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\side-nav\\_side-nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tables\\_tables.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tables\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-designs.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-designs.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile-positions.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile-positions.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile-text-alignment.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile-text-alignment.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile-themes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile-themes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-mobile.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-sizes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-sizes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-themes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\tabs\\_tabs-themes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\unfold\\_unfold.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\unfold\\_unfold.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_animations.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_colors.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_cursor.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_cursor.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_links.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_links.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_opacity.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_opacity.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_transitions.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_typo-font-sizes.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_typo-font-sizes.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_typo-font-weight.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\utilities\\_typo-font-weight.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\animate.css\\_animate.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\animate.css\\_animate.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\chartist-plugin-tooltip\\_chartist-plugin-tooltip.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\chartist-plugin-tooltip\\_chartist-plugin-tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\datatables\\_datatables.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\datatables\\_datatables.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\dropzone\\_basic.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\dropzone\\_basic.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\dropzone\\_custom.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\dropzone\\_custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\dropzone\\_dropzone.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\dropzone\\_dropzone.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\flatpickr\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\022-grains-master\\resources\\graindashboard\\sass\\graindashboard\\vendor\\flatpickr\\_flatpickr.scss"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\settings.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\settings.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\static-non-auth.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\static-non-auth.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\user-edit.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\user-edit.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\users.html",
+      "PackagePath": "staticwebassets\\022-grains-master\\users.html"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\022-grains-master\\webpack.mix.js",
+      "PackagePath": "staticwebassets\\022-grains-master\\webpack.mix.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\Images\\150px-Fatihkaragumruk.png",
+      "PackagePath": "staticwebassets\\Images\\150px-Fatihkaragumruk.png"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\Images\\galatasaray-transfer-haberi-bafetimbi-gomise-transfer-teklifi-yollar-ayriliyor-mu-1679556949442.jpg",
+      "PackagePath": "staticwebassets\\Images\\galatasaray-transfer-haberi-bafetimbi-gomise-transfer-teklifi-yollar-ayriliyor-mu-1679556949442.jpg"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\e_mur\\Desktop\\Futboligs\\Crawler_Case2\\Crawler_Case2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Crawler_Case2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Crawler_Case2.props",
+      "PackagePath": "build\\Crawler_Case2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Crawler_Case2.props",
+      "PackagePath": "buildMultiTargeting\\Crawler_Case2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Crawler_Case2.props",
+      "PackagePath": "buildTransitive\\Crawler_Case2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

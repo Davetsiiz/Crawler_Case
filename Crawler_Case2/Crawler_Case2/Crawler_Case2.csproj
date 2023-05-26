@@ -1,0 +1,65 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Images\alli.jpg" />
+    <Content Remove="wwwroot\Images\ardagüler.jpg" />
+    <Content Remove="wwwroot\Images\Başlıksız.jpg" />
+    <Content Remove="wwwroot\Images\bjkü.png" />
+    <Content Remove="wwwroot\Images\favicon.png" />
+    <Content Remove="wwwroot\Images\fb.png" />
+    <Content Remove="wwwroot\Images\gs.png" />
+    <Content Remove="wwwroot\Images\hamsik.jpg" />
+    <Content Remove="wwwroot\Images\icardi.jpg" />
+    <Content Remove="wwwroot\Images\Kayserispor_logosu.png" />
+    <Content Remove="wwwroot\Images\logo-light-mini.png" />
+    <Content Remove="wwwroot\Images\logo-light.png" />
+    <Content Remove="wwwroot\Images\logo-mini.png" />
+    <Content Remove="wwwroot\Images\logo.png" />
+    <Content Remove="wwwroot\Images\Sivasspor.png" />
+    <Content Remove="wwwroot\Images\ts.jpg" />
+    <Content Remove="wwwroot\Images\turan.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AjaxControlToolkit" Version="20.1.0" />
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="jQuery" Version="3.7.0" />
+    <PackageReference Include="jQuery.Validation" Version="1.19.5" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.jQuery.Unobtrusive.Validation" Version="4.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\alli.jpg" />
+    <None Include="wwwroot\Images\ardagüler.jpg" />
+    <None Include="wwwroot\Images\Başlıksız.jpg" />
+    <None Include="wwwroot\Images\bjkü.png" />
+    <None Include="wwwroot\Images\favicon.png" />
+    <None Include="wwwroot\Images\fb.png" />
+    <None Include="wwwroot\Images\gs.png" />
+    <None Include="wwwroot\Images\hamsik.jpg" />
+    <None Include="wwwroot\Images\icardi.jpg" />
+    <None Include="wwwroot\Images\Kayserispor_logosu.png" />
+    <None Include="wwwroot\Images\logo-light-mini.png" />
+    <None Include="wwwroot\Images\logo-light.png" />
+    <None Include="wwwroot\Images\logo-mini.png" />
+    <None Include="wwwroot\Images\logo.png" />
+    <None Include="wwwroot\Images\Sivasspor.png" />
+    <None Include="wwwroot\Images\ts.jpg" />
+    <None Include="wwwroot\Images\turan.jpg" />
+  </ItemGroup>
+
+</Project>
